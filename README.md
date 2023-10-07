@@ -3,6 +3,6 @@
 
 # How to run
 1. Download code file.
-2. open file into the IED.
+2. open file into the IDE.
 3. Run loacal host server.
 
